@@ -30,6 +30,8 @@ function Input() {
         dispatch(addItem(formData.item))
     }
 
+	//TODO, handle add food item function
+
 	return (
 		<div className='input'>
 			<h2>Input</h2>
@@ -47,6 +49,8 @@ function Input() {
 				<input onChange={handleChange} name='item' placeholder='item' />
 				<button onClick={handleAddItem}>Add food item</button>
 			</div>
+
+			{/* //TODO HOME WORK create an input field to add food item to food list */}
 		</div>
 	)
 }

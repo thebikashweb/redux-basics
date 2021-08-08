@@ -27,6 +27,8 @@ function Home() {
 				{/* Lists component  */}
 				<Lists />
 
+				{/* //TODO HOMEWORK, render food item component  */}
+
 				{/* Input component  */}
 				<Input />
 			</div>

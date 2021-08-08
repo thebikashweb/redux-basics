@@ -16,4 +16,8 @@ export const addItem=(item)=>{
 }
 
 
+//TODO HOMEWORK 
+//create an action to add food item to food list reducer
+
+
 

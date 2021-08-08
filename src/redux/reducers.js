@@ -38,12 +38,23 @@ function listsReducer(state=listInitialState, action){
 
 }
 
+//TODO HOMEWORK
+// create a foodReducer that has foods array inside 
+//combine foodReducer to combine reducer
+/*
+    e.g 
+    foodReducer={
+        foods:[]
+    }
+*/
+
+
 
 
 //combine all reducers to one
 const rootReducer=combineReducers({
     nameReducer,
-    listsReducer
+    listsReducer,
 })
 
 export default rootReducer
