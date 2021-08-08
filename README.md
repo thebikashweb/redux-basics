@@ -1,6 +1,8 @@
 ## A simple web app to demonstrate redux usage
 
-## [Video Tutorial](https://bw-redux101.netlify.app/)
+## [demo](https://bw-redux101.netlify.app/)
+## [Video Tutorial](https://youtu.be/qn1ULr7oiS0)
+
 
 ### Tasks ( video timestamp)
 
