@@ -45,10 +45,7 @@ function Input() {
 				<input onChange={handleChange} name='item' placeholder='item' />
 				<button onClick={handleAddItem}>Add</button>
 			</div>
-			<div className='input__field'>
-				<input onChange={handleChange} name='item' placeholder='item' />
-				<button onClick={handleAddItem}>Add food item</button>
-			</div>
+			
 
 			{/* //TODO HOME WORK create an input field to add food item to food list */}
 		</div>

@@ -13,11 +13,7 @@ function Home() {
 		<div className='home'>
 			<div className='home__top'>
 				<h1>Home component
-                {lists.map((item, id) => (
-				<div key={id} className='list__item'>
-					<p>{item}</p>
-				</div>
-			))}
+               
 
                 </h1>
 				<p>Name: {name} </p>
